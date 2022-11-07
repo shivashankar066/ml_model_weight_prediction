@@ -1,0 +1,10 @@
+Django==4.0.4
+djangorestframework==3.13.1
+mssql-django==1.1.2
+numpy==1.22.3
+pandas==1.4.2
+pip==22.3
+pyodbc==4.0.32
+python-dateutil==2.8.2
+scikit-learn==1.1.1
+joblib~=1.2.0
